@@ -1,13 +1,13 @@
-# hx-node-template -
+# deliveryman -
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
-[![npm](https://img.shields.io/npm/v/hx-node-template.svg)](https://www.npmjs.com/package/hx-node-template)
-[![Build Status](https://travis-ci.com/holvonix-open/hx-node-template.svg?branch=master)](https://travis-ci.com/holvonix-open/hx-node-template)
-[![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/hx-node-template.svg)](https://github.com/holvonix-open/hx-node-template/commits)
-[![codecov](https://codecov.io/gh/holvonix-open/hx-node-template/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/hx-node-template)
-[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/hx-node-template)](https://dependabot.com)
-[![DeepScan grade](https://deepscan.io/api/teams/XX/projects/YY/branches/ZZ/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=XX&pid=YY&bid=ZZ)
-[![npm bundle size](https://img.shields.io/bundlephobia/min/hx-node-template.svg)](https://bundlephobia.com/result?p=hx-node-template)
+[![npm](https://img.shields.io/npm/v/@holvonix-open/deliveryman.svg)](https://www.npmjs.com/package/@holvonix-open/deliveryman)
+[![Build Status](https://travis-ci.com/holvonix-open/deliveryman.svg?branch=master)](https://travis-ci.com/holvonix-open/deliveryman)
+[![GitHub last commit](https://img.shields.io/github/last-commit/holvonix-open/deliveryman.svg)](https://github.com/holvonix-open/deliveryman/commits)
+[![codecov](https://codecov.io/gh/holvonix-open/deliveryman/branch/master/graph/badge.svg)](https://codecov.io/gh/holvonix-open/deliveryman)
+[![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=holvonix-open/deliveryman)](https://dependabot.com)
+[![DeepScan grade](https://deepscan.io/api/teams/4465/projects/8589/branches/106153/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=4465&pid=8589&bid=106153)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/@holvonix-open/deliveryman.svg)](https://bundlephobia.com/result?p=@holvonix-open/deliveryman)
 [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://github.com/google/gts)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
@@ -17,10 +17,10 @@ that's not acceptable for you.
 
 ## Quick Start
 
-After `yarn add hx-node-template`:
+After `yarn add @holvonix-open/deliveryman`:
 
 ```typescript
-import { TODO } from 'hx-node-template';
+import { TODO } from '@holvonix-open/deliveryman';
 
 async function getIt() {
   // TODO
@@ -35,10 +35,10 @@ under Section 4d of the License.
 
 ```
 
-# hx-node-template
+# deliveryman
 
 This product contains software originally developed by Holvonix LLC.
-Original Repository: https://github.com/holvonix-open/hx-node-template
+Original Repository: https://github.com/holvonix-open/deliveryman
 
 Copyright (c) 2019 Holvonix LLC. All rights reserved.
 
